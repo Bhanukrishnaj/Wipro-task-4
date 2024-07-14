@@ -1,0 +1,7 @@
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\find second largest element\bin\Debug\find second largest element.exe.config
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\find second largest element\bin\Debug\find second largest element.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\find second largest element\bin\Debug\find second largest element.pdb
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\find second largest element\obj\Debug\find second largest element.csproj.AssemblyReference.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\find second largest element\obj\Debug\find second largest element.csproj.CoreCompileInputs.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\find second largest element\obj\Debug\find second largest element.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\find second largest element\obj\Debug\find second largest element.pdb

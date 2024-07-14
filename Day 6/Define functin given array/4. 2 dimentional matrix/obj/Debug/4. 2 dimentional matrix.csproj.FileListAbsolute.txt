@@ -1,0 +1,7 @@
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\4. 2 dimentional matrix\bin\Debug\4. 2 dimentional matrix.exe.config
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\4. 2 dimentional matrix\bin\Debug\4. 2 dimentional matrix.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\4. 2 dimentional matrix\bin\Debug\4. 2 dimentional matrix.pdb
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\4. 2 dimentional matrix\obj\Debug\4. 2 dimentional matrix.csproj.AssemblyReference.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\4. 2 dimentional matrix\obj\Debug\4. 2 dimentional matrix.csproj.CoreCompileInputs.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\4. 2 dimentional matrix\obj\Debug\4. 2 dimentional matrix.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\4. 2 dimentional matrix\obj\Debug\4. 2 dimentional matrix.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Define functin given array", "Define functin given array\Define functin given array.csproj", "{53DE159D-E272-43EC-8A9F-04568F9F768F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d code", "2D\2d code\2d code.csproj", "{FEB0096B-1E81-4931-A6F0-CE00432A6F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find second largest element", "find second largest element\find second largest element.csproj", "{8AD2C5BD-229F-4FEF-9B54-6A2165E45B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse aray", "Reverse aray\Reverse aray.csproj", "{33A4FC24-5CC1-4A65-BE92-A662A2ADBE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Bubble sort", "3. Bubble sort\3. Bubble sort.csproj", "{97EAC714-AE4D-41DC-A3B5-EFFA5E766B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. 2 dimentional matrix", "4. 2 dimentional matrix\4. 2 dimentional matrix.csproj", "{3C98998A-8EE6-4C98-B5FD-60663E891E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. 2D arra size 3x3", "5. 2D arra size 3x3\5. 2D arra size 3x3.csproj", "{7A0E6DA2-5A20-4296-8517-83DCD42FBA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DE159D-E272-43EC-8A9F-04568F9F768F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DE159D-E272-43EC-8A9F-04568F9F768F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DE159D-E272-43EC-8A9F-04568F9F768F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DE159D-E272-43EC-8A9F-04568F9F768F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB0096B-1E81-4931-A6F0-CE00432A6F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB0096B-1E81-4931-A6F0-CE00432A6F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB0096B-1E81-4931-A6F0-CE00432A6F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB0096B-1E81-4931-A6F0-CE00432A6F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD2C5BD-229F-4FEF-9B54-6A2165E45B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD2C5BD-229F-4FEF-9B54-6A2165E45B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD2C5BD-229F-4FEF-9B54-6A2165E45B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD2C5BD-229F-4FEF-9B54-6A2165E45B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A4FC24-5CC1-4A65-BE92-A662A2ADBE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A4FC24-5CC1-4A65-BE92-A662A2ADBE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A4FC24-5CC1-4A65-BE92-A662A2ADBE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A4FC24-5CC1-4A65-BE92-A662A2ADBE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EAC714-AE4D-41DC-A3B5-EFFA5E766B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EAC714-AE4D-41DC-A3B5-EFFA5E766B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EAC714-AE4D-41DC-A3B5-EFFA5E766B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EAC714-AE4D-41DC-A3B5-EFFA5E766B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C98998A-8EE6-4C98-B5FD-60663E891E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C98998A-8EE6-4C98-B5FD-60663E891E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C98998A-8EE6-4C98-B5FD-60663E891E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C98998A-8EE6-4C98-B5FD-60663E891E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0E6DA2-5A20-4296-8517-83DCD42FBA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0E6DA2-5A20-4296-8517-83DCD42FBA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0E6DA2-5A20-4296-8517-83DCD42FBA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0E6DA2-5A20-4296-8517-83DCD42FBA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A1B4C2-05FD-4CDC-9ED8-62508190F485}
+	EndGlobalSection
+EndGlobal

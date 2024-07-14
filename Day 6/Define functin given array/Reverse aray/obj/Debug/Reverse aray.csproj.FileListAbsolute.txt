@@ -1,0 +1,7 @@
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Reverse aray\bin\Debug\Reverse aray.exe.config
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Reverse aray\bin\Debug\Reverse aray.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Reverse aray\bin\Debug\Reverse aray.pdb
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Reverse aray\obj\Debug\Reverse aray.csproj.AssemblyReference.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Reverse aray\obj\Debug\Reverse aray.csproj.CoreCompileInputs.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Reverse aray\obj\Debug\Reverse aray.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Reverse aray\obj\Debug\Reverse aray.pdb

@@ -1,0 +1,7 @@
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Define functin given array\bin\Debug\Define functin given array.exe.config
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Define functin given array\bin\Debug\Define functin given array.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Define functin given array\bin\Debug\Define functin given array.pdb
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Define functin given array\obj\Debug\Define functin given array.csproj.AssemblyReference.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Define functin given array\obj\Debug\Define functin given array.csproj.CoreCompileInputs.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Define functin given array\obj\Debug\Define functin given array.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\Define functin given array\obj\Debug\Define functin given array.pdb

@@ -1,0 +1,7 @@
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\2D\2d code\bin\Debug\2d code.exe.config
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\2D\2d code\bin\Debug\2d code.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\2D\2d code\bin\Debug\2d code.pdb
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\2D\2d code\obj\Debug\2d code.csproj.AssemblyReference.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\2D\2d code\obj\Debug\2d code.csproj.CoreCompileInputs.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\2D\2d code\obj\Debug\2d code.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 6\Define functin given array\2D\2d code\obj\Debug\2d code.pdb
